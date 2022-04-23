@@ -2,11 +2,6 @@
 
 void Log(const char* message);
 
-void Log(const char* message)
-{
-  std::cout << message << std::endl;
-}
-
 int Multiply(int a, int b)
 {
   Log("Multiply");
