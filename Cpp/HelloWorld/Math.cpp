@@ -1,4 +1,4 @@
-int Multiply(int a, int b)
+int Multiply()
 {
-  return a * b;
+  return 5 * 2;
 }
