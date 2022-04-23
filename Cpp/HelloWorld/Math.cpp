@@ -1,4 +1,10 @@
-int Multiply()
+const char* Log(const char* message)
 {
-  return 5 * 2;
+  return message;
+}
+
+int Multiply(int a, int b)
+{
+  Log("Multiply");
+  return a * b;
 }
