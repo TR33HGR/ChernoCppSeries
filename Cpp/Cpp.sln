@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32413.511
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorld", "HelloWorld\HelloWorld.vcxproj", "{6E65B62F-8FB4-4EA9-A806-0B9F6ADB54B4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HowTheLinkerWorks", "HowTheLinkerWorks\HowTheLinkerWorks.vcxproj", "{C2C1AE89-1023-499F-82C7-1693AC25E1F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{6E65B62F-8FB4-4EA9-A806-0B9F6ADB54B4}.Release|x64.Build.0 = Release|x64
 		{6E65B62F-8FB4-4EA9-A806-0B9F6ADB54B4}.Release|x86.ActiveCfg = Release|Win32
 		{6E65B62F-8FB4-4EA9-A806-0B9F6ADB54B4}.Release|x86.Build.0 = Release|Win32
+		{C2C1AE89-1023-499F-82C7-1693AC25E1F2}.Debug|x64.ActiveCfg = Debug|x64
+		{C2C1AE89-1023-499F-82C7-1693AC25E1F2}.Debug|x64.Build.0 = Debug|x64
+		{C2C1AE89-1023-499F-82C7-1693AC25E1F2}.Debug|x86.ActiveCfg = Debug|Win32
+		{C2C1AE89-1023-499F-82C7-1693AC25E1F2}.Debug|x86.Build.0 = Debug|Win32
+		{C2C1AE89-1023-499F-82C7-1693AC25E1F2}.Release|x64.ActiveCfg = Release|x64
+		{C2C1AE89-1023-499F-82C7-1693AC25E1F2}.Release|x64.Build.0 = Release|x64
+		{C2C1AE89-1023-499F-82C7-1693AC25E1F2}.Release|x86.ActiveCfg = Release|Win32
+		{C2C1AE89-1023-499F-82C7-1693AC25E1F2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
