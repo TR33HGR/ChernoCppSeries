@@ -2,7 +2,7 @@
 
 int Multiply(int a, int b)
 {
-
+  return a * b;
 }
 
 void MultiplyAndLog(int a, int b)
@@ -17,4 +17,6 @@ int main()
   MultiplyAndLog(4, 2);
   MultiplyAndLog(3, 45);
   std::cin.get();
+
+  return 0;
 }
