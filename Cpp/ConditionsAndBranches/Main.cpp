@@ -5,10 +5,9 @@
 int main()
 {
   int x = 6;
-  bool comparisionResult = x == 5;
-  if (comparisionResult)
-  {
+
+  if (x == 5)
     Log("Hello World!");
-  }
+
   std::cin.get();
 }
