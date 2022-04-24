@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HowTheLinkerWorks", "HowThe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Variables", "Variables\Variables.vcxproj", "{52578903-603F-4183-A295-0049FA641E3E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Functions", "Functions\Functions.vcxproj", "{3D4A3BC7-99A8-4B96-8C5F-06FEFFA340E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{52578903-603F-4183-A295-0049FA641E3E}.Release|x64.Build.0 = Release|x64
 		{52578903-603F-4183-A295-0049FA641E3E}.Release|x86.ActiveCfg = Release|Win32
 		{52578903-603F-4183-A295-0049FA641E3E}.Release|x86.Build.0 = Release|Win32
+		{3D4A3BC7-99A8-4B96-8C5F-06FEFFA340E2}.Debug|x64.ActiveCfg = Debug|x64
+		{3D4A3BC7-99A8-4B96-8C5F-06FEFFA340E2}.Debug|x64.Build.0 = Debug|x64
+		{3D4A3BC7-99A8-4B96-8C5F-06FEFFA340E2}.Debug|x86.ActiveCfg = Debug|Win32
+		{3D4A3BC7-99A8-4B96-8C5F-06FEFFA340E2}.Debug|x86.Build.0 = Debug|Win32
+		{3D4A3BC7-99A8-4B96-8C5F-06FEFFA340E2}.Release|x64.ActiveCfg = Release|x64
+		{3D4A3BC7-99A8-4B96-8C5F-06FEFFA340E2}.Release|x64.Build.0 = Release|x64
+		{3D4A3BC7-99A8-4B96-8C5F-06FEFFA340E2}.Release|x86.ActiveCfg = Release|Win32
+		{3D4A3BC7-99A8-4B96-8C5F-06FEFFA340E2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
