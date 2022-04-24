@@ -1,6 +1,7 @@
 #include "Log.h"
 
-#include "iostream"
+#include <stdlib.h>
+#include <iostream>
 
 int main()
 {
