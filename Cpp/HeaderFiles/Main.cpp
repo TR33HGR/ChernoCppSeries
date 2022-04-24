@@ -1,5 +1,6 @@
-#include <iostream>
 #include "Log.h"
+
+#include <iostream>
 
 int main()
 {
