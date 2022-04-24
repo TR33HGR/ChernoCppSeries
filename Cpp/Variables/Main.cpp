@@ -3,6 +3,6 @@
 int main()
 {
   bool variable = true;
-  std::cout << variable << std::endl;
+  std::cout << sizeof(bool) << std::endl;
   std::cin.get();
 }
