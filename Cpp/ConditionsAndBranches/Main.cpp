@@ -4,7 +4,7 @@
 
 int main()
 {
-  int x = 5;
+  int x = 6;
   bool comparisionResult = x == 5;
   if (comparisionResult)
   {
