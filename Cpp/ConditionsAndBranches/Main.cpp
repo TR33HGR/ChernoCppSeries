@@ -4,7 +4,7 @@
 
 int main()
 {
-  const char* ptr = "Hello";
+  const char* ptr = nullptr;
 
   if (ptr)
     Log(ptr);
