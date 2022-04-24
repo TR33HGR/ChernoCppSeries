@@ -4,10 +4,10 @@
 
 int main()
 {
-  int x = 6;
+  const char* ptr = "Hello";
 
-  if (x)
-    Log("Hello World!");
+  if (ptr)
+    Log(ptr);
 
   std::cin.get();
 }
