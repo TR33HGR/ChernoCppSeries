@@ -6,7 +6,7 @@ int main()
 {
   int x = 6;
 
-  if (x == 5)
+  if (x)
     Log("Hello World!");
 
   std::cin.get();
