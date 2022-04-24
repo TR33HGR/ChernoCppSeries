@@ -8,6 +8,8 @@ int main()
 
   if (ptr)
     Log(ptr);
+  else
+    Log("Ptr is null");
 
   std::cin.get();
 }
