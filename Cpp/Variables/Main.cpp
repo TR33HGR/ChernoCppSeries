@@ -2,9 +2,8 @@
 
 int main()
 {
-  short a = 65;
-  short A = 'A';
-  std::cout << a << std::endl;
-  std::cout << A << std::endl;
+  float variable_float = 5.5f;
+  float variable_double = 5.5;
+  std::cout << variable << std::endl;
   std::cin.get();
 }
