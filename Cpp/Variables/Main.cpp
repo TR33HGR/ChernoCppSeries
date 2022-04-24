@@ -2,6 +2,9 @@
 
 int main()
 {
-  std::cout << "Hello World!" << std::endl;
+  int variable = 8; // ~ +/-2b
+  std::cout << variable << std::endl;
+  variable = 20;
+  std::cout << variable << std::endl;
   std::cin.get();
 }
