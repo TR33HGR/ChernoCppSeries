@@ -2,8 +2,8 @@
 
 int main()
 {
-  char a = 65;
-  char A = 'A';
+  short a = 65;
+  short A = 'A';
   std::cout << a << std::endl;
   std::cout << A << std::endl;
   std::cin.get();
