@@ -2,7 +2,7 @@
 
 int Multiply(int a, int b)
 {
-  return a * b;
+
 }
 
 void MultiplyAndLog(int a, int b)
