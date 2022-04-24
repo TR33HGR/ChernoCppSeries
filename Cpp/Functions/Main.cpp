@@ -5,15 +5,16 @@ int Multiply(int a, int b)
   return a * b;
 }
 
+void MultiplyAndLog(int a, int b)
+{
+  int result = Multiply(a, b);
+  std::cout << result << std::endl;
+}
+
 int main()
 {
-  int result = Multiply(3, 2);
-  std::cout << result << std::endl;
-
-  int result2 = Multiply(4, 2);
-  std::cout << result << std::endl;
-
-  int result3 = Multiply(3, 45);
-  std::cout << result << std::endl;
+  MultiplyAndLog(3, 2);
+  MultiplyAndLog(4, 2);
+  MultiplyAndLog(3, 45);
   std::cin.get();
 }
